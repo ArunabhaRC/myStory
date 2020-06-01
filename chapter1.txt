@@ -2,6 +2,6 @@
 
 There once was a king called git
 
-He was a good king who loved his people and was a lot like King Arthur, apart from the cool sword. 
-
-Although this King was good he had a big secret, something no one knew. No one alive that is. 
+He was a good king who loved his people and was a lot like King Arthur, apart from the cool sword. He had a big castle. 
+His casle had many repositories which shared people
+He had lots of land, where there were many stands, from the hills to the deepest valley.
